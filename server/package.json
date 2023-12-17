@@ -17,6 +17,7 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "getstream": "^8.4.1",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.12",
     "stream-chat": "^8.14.4",
     "twilio": "^4.19.3"
