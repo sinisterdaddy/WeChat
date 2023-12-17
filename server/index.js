@@ -4,6 +4,7 @@ const dotenv = require('dotenv');
 const twilio = require('twilio');
 
 const authRoutes = require('./routes/auth.js');
+const morgan = require('morgan');
 
 dotenv.config();
 
@@ -19,7 +20,7 @@ const twilioClient = twilio(accountSid, authToken);
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-
+app.use(morgan('common'))
 app.get('/', (req, res) => {
     res.send('Hello, World!');
 });
