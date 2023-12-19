@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.faa6badc.css",
+    "main.js": "/static/js/main.7e083651.js",
+    "static/js/220.1643bd55.chunk.js": "/static/js/220.1643bd55.chunk.js",
+    "static/js/572.204e3ee1.chunk.js": "/static/js/572.204e3ee1.chunk.js",
+    "static/js/867.eeb9e712.chunk.js": "/static/js/867.eeb9e712.chunk.js",
+    "static/js/678.d697853b.chunk.js": "/static/js/678.d697853b.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "static/media/signup.jpg": "/static/media/signup.542d9f57d1f1a66b32c9.jpg",
+    "static/media/wechat.png": "/static/media/wechat.89eb4ee17afcb399ba3e.png",
+    "index.html": "/index.html",
+    "main.faa6badc.css.map": "/static/css/main.faa6badc.css.map",
+    "main.7e083651.js.map": "/static/js/main.7e083651.js.map",
+    "220.1643bd55.chunk.js.map": "/static/js/220.1643bd55.chunk.js.map",
+    "572.204e3ee1.chunk.js.map": "/static/js/572.204e3ee1.chunk.js.map",
+    "867.eeb9e712.chunk.js.map": "/static/js/867.eeb9e712.chunk.js.map",
+    "678.d697853b.chunk.js.map": "/static/js/678.d697853b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa6badc.css",
+    "static/js/main.7e083651.js"
+  ]
+}
