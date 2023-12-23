@@ -3,7 +3,7 @@
 
   <h1>WeChat - Chat Application</h1>
 <h2>Demo</h2>
-  <p>Check out the live demo: [Demo Link](https://your-demo-url.com)</p>
+  <p>Check out the live demo: https://we-chat-sinisterdaddys-projects.vercel.app/</p>
   <h2>Getting Started</h2>
 
   <h3>Prerequisites</h3>
